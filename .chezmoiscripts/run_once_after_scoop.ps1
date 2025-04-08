@@ -1,1 +1,3 @@
-Invoke-RestMethod -Uri https://get.scoop.sh | Invoke-Expression
+iex "& {$(irm get.scoop.sh)} -RunAsAdmin"
+scoop install git
+scoop bucket add extras
