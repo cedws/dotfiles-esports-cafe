@@ -1,1 +1,1 @@
-tinynvidiaupdatechecker.exe
+~/scoop/shims/tinynvidiaupdatechecker.exe
